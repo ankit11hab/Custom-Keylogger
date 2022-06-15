@@ -1,0 +1,11 @@
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\bin\Debug\CustomKeylogger.exe.config
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\bin\Debug\CustomKeylogger.exe
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\bin\Debug\CustomKeylogger.pdb
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.csproj.AssemblyReference.cache
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.Form1.resources
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.Properties.Resources.resources
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.csproj.GenerateResource.cache
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.exe
+C:\Users\COMPUTER\source\repos\CustomKeylogger\CustomKeylogger\obj\Debug\CustomKeylogger.pdb
